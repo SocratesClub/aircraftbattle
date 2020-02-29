@@ -18,7 +18,7 @@
 > cd github/aircraftbattle
 
 
-![terminal](https://upload-images.jianshu.io/upload_images/38934-3b6a7888d729c946.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![terminal](terminal.png)
 
 运行aircraftbattle.py
 
@@ -26,6 +26,4 @@
 
 ## Enjoy your game!
 
-![飞机大战游戏](https://upload-images.jianshu.io/upload_images/38934-2b63fcfc01978124.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
+![飞机大战游戏](preface.png)
