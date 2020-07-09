@@ -27,3 +27,8 @@
 ## Enjoy your game!
 
 ![飞机大战游戏](preface.png)
+
+
+## 相关链接
+
+初阶版本Python飞机大战 https://github.com/computational-class/PlayPlane
